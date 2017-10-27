@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PetWalker.BusinessLogic.BusinessEntities;
 using PetWalker.BusinessLogic.Interfaces;
-using PetWalker.BusinessLogic.BusinessEntities;
 using PetWalker.DataAccess.Interfaces;
+using System.Collections.Generic;
 
 namespace PetWalker.BusinessLogic.Managers
 {

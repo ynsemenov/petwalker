@@ -23,7 +23,5 @@ namespace PetWalker.DataAccess.DBContext
         public DbSet<Size> Sizes { get; set; }
 
         public DbSet<PetWalk> PetWalks { get; set; }
-
-        //??public DbSet<DayOfWeek> DaysOfWeek
     }
 }
