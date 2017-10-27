@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetWalker", "PetWalker\PetWalker.csproj", "{0485B89D-CAE1-4AEB-82D7-BF32A6304B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetWalker.UnitTests", "PetWalker.UnitTests\PetWalker.UnitTests.csproj", "{E41D12D8-8D0E-485E-B257-CE04DBAFE785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0485B89D-CAE1-4AEB-82D7-BF32A6304B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0485B89D-CAE1-4AEB-82D7-BF32A6304B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0485B89D-CAE1-4AEB-82D7-BF32A6304B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0485B89D-CAE1-4AEB-82D7-BF32A6304B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41D12D8-8D0E-485E-B257-CE04DBAFE785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41D12D8-8D0E-485E-B257-CE04DBAFE785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41D12D8-8D0E-485E-B257-CE04DBAFE785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41D12D8-8D0E-485E-B257-CE04DBAFE785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A1850A-C981-4D83-AF6E-AF601DACA83E}
+	EndGlobalSection
+EndGlobal
